@@ -1,0 +1,6 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="..\.common-props\common-test.props"/>
+  <ItemGroup>
+    <ProjectReference Include="..\AspireCleanArchitecture.Application\AspireCleanArchitecture.Application.csproj" />
+  </ItemGroup>
+</Project>
